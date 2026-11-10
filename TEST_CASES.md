@@ -478,6 +478,7 @@ University of Petroleum and Energy Studies (UPES)
 ### Team Information
 
 **Batch:** 10
+
 **Team Name:** Amateurs
 
 **Team Members:**
