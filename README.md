@@ -192,8 +192,8 @@ Results depend on compiler optimization, processor architecture, and runtime con
 
 ## ## Project Lead & Developer
 **Role: Team Lead, Lead Developer & Repository Maintainer**
-**Nimit**  
 
+**Nimit**  
 B.Tech Computer Science and Engineering  
 University of Petroleum and Energy Studies (UPES)
 
