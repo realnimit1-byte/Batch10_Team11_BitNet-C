@@ -393,3 +393,110 @@ The project demonstrates practical applications of C programming concepts such a
 **Project Lead:** Nimit
 
 **Project Type:** First-Year B.Tech C Programming Mini Hackathon — Group Project
+
+---
+
+## 11. Test Execution Screenshots
+
+The following screenshots provide visual evidence of actual BitNet-C v2.4 program execution using OnlineGDB.
+
+### TC-01: All-Zero Input — Class 0
+
+**Input:** `00000000`  
+**Expected:** Class 0  
+**Actual:** Class 0  
+**Status:** PASS
+
+![TC-01: Class 0 Prediction](screenshots/TC-01_class0.png)
+
+### TC-02: All-One Input — Class 1
+
+**Input:** `11111111`  
+**Expected:** Class 1  
+**Actual:** Class 1  
+**Status:** PASS
+
+![TC-02: Class 1 Prediction](screenshots/TC-02_class1.png)
+
+### TC-03: Mixed Binary Input — Class 1
+
+**Input:** `10110110`  
+**Expected:** Class 1  
+**Actual:** Class 1  
+**Status:** PASS
+
+![TC-03: Class 1 Prediction](screenshots/TC-03_class1.png)
+
+### TC-04: Three Set Bits — Class 0
+
+**Input:** `00000111`  
+**Expected:** Class 0  
+**Actual:** Class 0  
+**Status:** PASS
+
+![TC-04: Class 0 Prediction](screenshots/TC-04_class0.png)
+
+### TC-06: Invalid Binary Input
+
+**Input:** `10112010`  
+**Expected:** Invalid input rejected  
+**Actual:** Invalid binary input!  
+**Status:** PASS
+
+![TC-06: Invalid Input Rejected](screenshots/TC-06_invalid_input.png)
+
+---
+
+**Screenshot Evidence:** Five actual test execution screenshots are included in the repository's `screenshots/` directory.
+
+---
+
+## 12. Project Information & Credits
+
+**Project Title:** BitNet-C — A Bitwise Optimized Binary Neural Network for Ultra-Low Memory Activation
+
+**Project Version:** v2.4
+
+**Project Type:** First-Year B.Tech C Programming Mini Hackathon — Group Project
+
+**Institution:** University of Petroleum and Energy Studies (UPES), Dehradun
+
+**Department:** Computer Science and Engineering
+
+### Project Lead & Repository Maintainer
+
+**Nimit**
+B.Tech Computer Science and Engineering
+University of Petroleum and Energy Studies (UPES)
+
+**Role:** Team Lead, Lead Developer & GitHub Repository Maintainer
+
+**GitHub Profile:** [realnimit1-byte](https://github.com/realnimit1-byte)
+
+**Project Repository:** [BitNet-C](https://github.com/realnimit1-byte/BitNet-C)
+
+### Team Information
+
+**Batch:** 10
+**Team Name:** Amateurs
+
+**Team Members:**
+
+1. Nimit — Team Lead
+2. Abhimanyu Jakhar
+3. Aasma Sharda
+4. Pranav Bhasin&#x20;
+
+### Acknowledgement
+
+BitNet-C was developed as part of the First-Year B.Tech C Programming Mini Hackathon at UPES.
+
+The project demonstrates the application of C programming fundamentals, binary neural networks, bitwise optimization, memory-efficient computation, and algorithmic problem-solving.
+
+This repository is maintained by the Project Lead and contains the implementation, testing documentation, and supporting materials developed for the Mini Hackathon.
+
+---
+
+**© 2026 BitNet-C Project Team | Maintained by Nimit**
+
+*Developed in C • Optimized with Bitwise Operations • Designed for Memory-Efficient Neural Network Inference*
