@@ -190,7 +190,7 @@ Results depend on compiler optimization, processor architecture, and runtime con
 - Measure peak runtime memory consumption.
 - Extend the network to embedded and resource-constrained devices.
 
-## ## Project Lead & Developer
+## Project Lead & Developer
 **Role: Team Lead, Lead Developer & Repository Maintainer**
 
 **Nimit**  
